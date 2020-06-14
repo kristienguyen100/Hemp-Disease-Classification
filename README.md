@@ -4,5 +4,6 @@ Hemp is a staple crop that is used in many different products in food, beverages
 
 # Results 
 ![alt text](https://github.com/kristienguyen100/Hemp-Disease-Classification/blob/master/Pics/Accuracy.png)
+![alt text](https://github.com/kristienguyen100/Hemp-Disease-Classification/blob/master/Pics/Accuracy%20By%20Class.png)
 
 
